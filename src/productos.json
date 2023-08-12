@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Manzana",
+        "description": "Roja",
+        "price": 150,
+        "thumbnail": [],
+        "code": "MANR",
+        "stock": 50,
+        "id": 1
+    },
+    {
+        "title": "Banana",
+        "description": "Ecuador",
+        "price": 100,
+        "thumbnail": [],
+        "code": "BANE",
+        "stock": 110,
+        "id": 2
+    },
+    {
+        "title": "Kiwi",
+        "description": "Peludo",
+        "price": 300,
+        "thumbnail": [],
+        "code": "KIWP",
+        "stock": 25,
+        "id": 3
+    },
+    {
+        "title": "Manzana",
+        "description": "Roja",
+        "price": 150,
+        "thumbnail": [],
+        "code": "MANR",
+        "stock": 50,
+        "id": 4
+    },
+    {
+        "title": "pera",
+        "description": "amarilla",
+        "price": 1000,
+        "thumbnail": [],
+        "code": "PER1",
+        "stock": 14,
+        "id": 5
+    }
+]
